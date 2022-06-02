@@ -33,7 +33,7 @@
     "ndid-logger": "file:../ndid-logger",
     "node-fetch": "^2.1.2",
     "prom-client": "^11.2.1",
-    "protobufjs": "^6.8.8",
+    "protobufjs": "^6.11.3",
     "simple-backoff": "^1.1.0",
     "source-map-support": "^0.5.9",
     "uuid": "^3.3.2",
